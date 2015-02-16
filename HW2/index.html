@@ -1,0 +1,160 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!-- this file was created by Mohamed Ghanem for FE550 Spring term 2015-->
+<head>
+<title>FE550_HW Set 2 M. Ghanem</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css" media="Screen">
+/*\*/@import url("css/layout-1-master.css");/**/
+</style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+</head>
+<body>
+<div id="maincontainer">
+  <div id="headline1">
+    <div class="title"><em>Sprint 2015</em>FE550</div>
+    <span class="subtitle">HW Set 2.Temporal Data Visualization by Mo Ghanem</span> </div>
+  <div id="navtoplist">
+    <ul>
+      <li id="current"><a href="#">Home</a></li>
+      <li><a href="layout-2.html">Tax Breakdown</a></li>
+      <li><a href="layout-3.html">Anual Precentage Increase</a></li>
+      <li><a href="layout-4.html">County Taxes</a></li>
+    </ul>
+  </div>
+  <div id="navtoplistline">&nbsp;</div>
+  <div id="contentwrapper">
+      <div class="text">
+        <h2>Introduction</h2>
+        <p><img class="img-left" src="images/njmap.gif" width="231" height="350" alt="" />If you live or own a home in New Jersey you already know that New Jersey property taxes are the highest in the nation. In fact, New Jersey is home to three counties with the highest average property tax in the country. In 2014 New Jersey's property taxes increased at their fastest rate in three years. Indeed, property taxes increased from an average of $7,988 to  more than $8,100. <span class="highlight">The following shows the history of property taxes in New Jeresy from 1998 to 2014.  The data compiled and released by the  
+        <a href="http://www.state.nj.us/dca/">state Department of Community Affairs</a></p></span>
+    </p><h3>Average Statewide Property Taxes from 1998-20014</h3>
+                          <div id="chartContainer">
+                            
+                            <script type="text/javascript">
+                              
+                              d3.json("data/NJTax3.json", function(data) {
+                              data = dimple.filterData(data, "County", ["AVG"])  
+                                console.table (data);
+                                var svg = dimple.newSvg("#chartContainer", 800, 550);
+                                var myChart = new dimple.chart(svg, data);
+                                myChart.setBounds(100, 30, 600, 450);
+                                //console.log(myChart.axes.length);     
+                                  var x = myChart.addCategoryAxis ("x","Year");
+                                  myChart.addColorAxis("AVG Tax", ["green", "yellow", "red"]);
+                                  x.addOrderRule("Year");
+                                  x.timeInterval = 4;
+                                  x.showGridlines = true;
+                                  var s_1 = myChart.addMeasureAxis("y","AVG Tax");
+                                  s_1.title = "Average Property Taxes Statewide"
+                                  s_1.tickFormat = ',.2f';
+                                  var s1 = myChart.addSeries("County", dimple.plot.bar);
+                                  s1.interpolation = "cardinal";
+                                  s1.lineWeight = 3;
+                                  s1.lineMarkers = true;
+                                  myChart.addLegend(100, 150, 580, 80, "left");
+                                  myChart.draw();
+                                  x.shapes.selectAll("text").attr("transform", "rotate(45)");
+                          });
+                                 
+                            </script>
+                          </div>
+        <p>
+          </span></p><h3>So, Where Does the Property Tax Money Go?</h3>
+          <img class="img-right" src="images/image.jpg" width="150" height="110" alt="" />When analyzing the 2014 tax data we find that the money goes in three major areas; cities or municipalities, counties and school districts. Local governments use property tax money to fund the many public services they provide. off Course, the more money a local government spends, the higher the property tax bill goes.
+                <div id="chartContainer2">
+  <script type="text/javascript">
+    var svg = dimple.newSvg("#chartContainer2", 800, 400);
+    var data = [
+                  {
+                    "Name": "County Levy", 
+                    "value": 20.7
+                  },
+                  {
+                    "Name": "School Levy",
+                    "value": 51
+                  }, 
+                  {
+                    "Name": "Local Municipal Tax Levy",
+                    "value":28.3
+                  }];
+
+      var myChart = new dimple.chart(svg, data);
+      myChart.setBounds(350, 20, 300, 300)
+      myChart.addMeasureAxis("p", "value");
+      var ring = myChart.addSeries("Name", dimple.plot.pie);
+      ring.innerRadius = "50%";
+      myChart.addLegend(250, 20, 90, 300, "left");
+      myChart.draw();
+  </script>
+</div>
+        </p>
+
+        <hr />
+        <p><strong>Did you know:</strong></p>
+        <blockquote>In 2014, New Jersey's average residential property tax bill, increased by almost 2.2 percent over 2013. The average tax bill had grown 1.3 percent in 2013, 1.6 percent in 2012 and 2.4 percent in 2011. The highest increase remains the one seen in 2005 at 7.33% see chart below</blockquote>
+        <div id="chartContainer3">
+  
+  <script type="text/javascript">
+    
+    d3.csv("data/Anualincrease.csv", function(data) {
+      console.table (data);
+      
+      var svg = dimple.newSvg("#chartContainer3", 800, 425);
+      var myChart = new dimple.chart(svg, data);
+      myChart.setBounds(60, 30, 650, 350);
+      // Min price will be green, middle price yellow and max red
+      myChart.addColorAxis("Percentage Increase", ["green", "yellow", "red"]);
+      console.log(myChart.axes.length);     
+        var x = myChart.addCategoryAxis ("x", "Year");
+        //x.addOrderRule("Date");
+        x.showGridlines = true;
+        var s_1 = myChart.addMeasureAxis("y","Percentage Increase");
+        var s1 = myChart.addSeries(null, dimple.plot.line);
+        //s1.interpolation = "step";
+        s1.lineWeight = 5;
+        s_1.tickFormat = ',2f';
+        s1.lineMarkers = true;
+        s_1.showGridlines = true;
+        //myChart.addLegend(90, 650, 580, 80, "left");
+        myChart.draw();
+        x.shapes.selectAll("text").attr("transform", "rotate(45)");
+});
+       
+  
+  </script>
+</div>
+        <h4>County by County Analysis</h4>
+        <p>Property taxes experienced sharp increases between 2003 to 2007 where the avarage increase toppped 6% anually. last year Hudson and Atlantic Counties rose fastest in New Jersey. There, the average tax bill climbed 7.6 percent, from $7,467 to $8,034. The highest average tax bills are in Bergen, Union, and Essex counties</p>
+          <div id="chartContainer4">
+             <p><strong>The following Chart shows the average property taxes per county in NJ</strong></p>
+             <script type="text/javascript">
+                 var svg = dimple.newSvg("#chartContainer4", 1000, 800);
+                 d3.text("data/NJTax3.csv",function (data) {
+                    var csv = d3.csv.parse(data);
+                    console.table(csv);
+                   
+                    var myChart = new dimple.chart(svg, csv);
+                    myChart.setBounds(60, 30, 800, 550);
+                  // add axies
+                    var x = myChart.addCategoryAxis ("x", "Year");
+                    console.log(myChart.axes.length);
+                    x.addOrderRule("Date");
+                    x.showGridlines = true;
+                    var s_1 = myChart.addMeasureAxis("y","AVG Tax");
+                    var s1 = myChart.addSeries("County", dimple.plot.line);
+                    
+                    s1.interpolation = "cardinal";
+                    s1.lineWeight = 2;
+                    s1.lineMarkers = true;
+                    myChart.addLegend(90, 650, 580, 80, "left");
+                    myChart.draw();
+                    x.shapes.selectAll("text").attr("transform", "rotate(45)");
+                      });
+              
+              </script>
+          </div>
+<div align=center>Thank you for your time.  Please forward any questions or comments to <a href=mailto:mghanem@stevens.edu?Subject=FE550_HW2" target="_top"> Mo Ghanem</a></div>
+</body>
+</html>

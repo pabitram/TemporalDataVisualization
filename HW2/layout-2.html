@@ -1,0 +1,52 @@
+<html>
+ <head>
+  </head>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css" media="Screen">
+/*\*/@import url("css/layout-1-master.css");/**/
+</style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+<body>
+  <div id="headline1">
+    <div class="title"><em>Sprint 2015</em>FE550</div>
+    <span class="subtitle">HW Set 2.Temporal Data Visualization by Mo Ghanem</span> </div>
+  <div id="navtoplist">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li id="current"><a href="layout-2.html">Tax Breakdown</a></li>
+      <li><a href="layout-3.html">Anual Precentage Increase</a></li>
+      <li><a href="layout-4.html">County Taxes</a></li>
+  </div>
+  <div id="navtoplistline">&nbsp;</div>
+<h2>Tax Breakdown 1998-2014</h2>
+<div id="chartContainer">
+  <script type="text/javascript">
+    var svg = dimple.newSvg("#chartContainer", 590, 400);
+    var data = [
+                  {
+                    "Name": "County Levy", 
+                    "value": 20.7
+                  },
+                  {
+                    "Name": "School Levy",
+                    "value": 51
+                  }, 
+                  {
+                    "Name": "Local Municipal Tax Levy",
+                    "value":28.3
+                  }];
+
+      var myChart = new dimple.chart(svg, data);
+      myChart.setBounds(20, 20, 460, 360)
+      myChart.addMeasureAxis("p", "value");
+      var ring = myChart.addSeries("Name", dimple.plot.pie);
+      ring.innerRadius = "50%";
+      myChart.addLegend(500, 20, 90, 300, "left");
+      myChart.draw();
+  </script>
+</div>
+</body>
+</html>
