@@ -1,0 +1,15 @@
+This assignment is concerned with visualizing some form of temporal data, using d3.js and.or related javascript libraries.
+You may complete this assignment using any form of data that illustrates change or pattern over a given time period.
+
+See the following links for inspiration:
+http://survey.timeviz.net/
+
+http://senseable.mit.edu/currentcity/visuals.html
+
+https://nyquist212.wordpress.com/tag/d3-js/
+
+http://collaborate.mozillascience.org/projects/biosurveillanceViz
+
+Of course there are many other sources for inspirartion, including Mike Bostock's site and many others, but this should 
+serve as a start. if you get stuck on visualizing temporal data, you may look at time series data as well, in which case 
+you may wish to look at cubism.js, rickshaw.js, and others.
