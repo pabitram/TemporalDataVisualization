@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  </head>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css" media="Screen">
+/*\*/@import url("css/layout-1-master.css");/**/
+</style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+<body>
+  <div id="headline1">
+    <div class="title"><em>Sprint 2015</em>FE550</div>
+    <span class="subtitle">HW Set 2.Temporal Data Visualization by Mo Ghanem</span> </div>
+  <div id="navtoplist">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="layout-2.html">Tax Breakdown</a></li>
+      <li><a href="layout-3.html">Anual Precentage Increase</a></li>
+      <li id="current"><a href="layout-4.html">County Taxes</a></li>
+    </ul>
+  </div>
+  <div id="navtoplistline">&nbsp;</div>
+     <h2>County Average Property Tax 1998-2014</h2>
+     <div id="chartContainer">
+  
+  <script type="text/javascript">
+     var svg = dimple.newSvg("#chartContainer", 1000, 800);
+     d3.text("data/NJTax3.csv",function (data) {
+        var csv = d3.csv.parse(data);
+        console.table(csv);
+       
+        var myChart = new dimple.chart(svg, csv);
+        myChart.setBounds(60, 30, 800, 550);
+      // add axies
+        var x = myChart.addCategoryAxis ("x", "Year");
+        console.log(myChart.axes.length);
+        x.addOrderRule("Date");
+        x.showGridlines = true;
+        var s_1 = myChart.addMeasureAxis("y","AVG Tax");
+        var s1 = myChart.addSeries("County", dimple.plot.line);
+        
+        s1.interpolation = "cardinal";
+        s1.lineWeight = 2;
+        s1.lineMarkers = true;
+
+        myChart.addLegend(90, 650, 580, 80, "left");
+        myChart.draw();
+        x.shapes.selectAll("text").attr("transform", "rotate(45)");
+});
+  
+  </script>
+</div>
+   </body>
+</html>

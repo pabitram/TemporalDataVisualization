@@ -1,0 +1,1872 @@
+[
+  {
+    "Year":1998,
+    "County":"Atlantic",
+    "AVG Tax":3507.87
+  },
+  {
+    "Year":1998,
+    "County":"Bergen",
+    "AVG Tax":3161.13
+  },
+  {
+    "Year":1998,
+    "County":"Burlington",
+    "AVG Tax":3493.31
+  },
+  {
+    "Year":1998,
+    "County":"Camden",
+    "AVG Tax":4141.63
+  },
+  {
+    "Year":1998,
+    "County":"Cape May",
+    "AVG Tax":2162.32
+  },
+  {
+    "Year":1998,
+    "County":"Cumberland",
+    "AVG Tax":5148.74
+  },
+  {
+    "Year":1998,
+    "County":"Essex",
+    "AVG Tax":8687.09
+  },
+  {
+    "Year":1998,
+    "County":"Gloucester",
+    "AVG Tax":4372.99
+  },
+  {
+    "Year":1998,
+    "County":"Hudson",
+    "AVG Tax":4306.23
+  },
+  {
+    "Year":1998,
+    "County":"Hunterdon",
+    "AVG Tax":3250.24
+  },
+  {
+    "Year":1998,
+    "County":"Mercer",
+    "AVG Tax":4142.69
+  },
+  {
+    "Year":1998,
+    "County":"Middlesex",
+    "AVG Tax":3985.43
+  },
+  {
+    "Year":1998,
+    "County":"Monmouth",
+    "AVG Tax":3310.13
+  },
+  {
+    "Year":1998,
+    "County":"Morris",
+    "AVG Tax":3414.05
+  },
+  {
+    "Year":1998,
+    "County":"Ocean",
+    "AVG Tax":2948.56
+  },
+  {
+    "Year":1998,
+    "County":"Passaic",
+    "AVG Tax":4281.67
+  },
+  {
+    "Year":1998,
+    "County":"Salem",
+    "AVG Tax":3891.09
+  },
+  {
+    "Year":1998,
+    "County":"Somerset",
+    "AVG Tax":2866.29
+  },
+  {
+    "Year":1998,
+    "County":"Sussex",
+    "AVG Tax":4157.08
+  },
+  {
+    "Year":1998,
+    "County":"Union",
+    "AVG Tax":4771.9
+  },
+  {
+    "Year":1998,
+    "County":"Warren",
+    "AVG Tax":3252.79
+  },
+  {
+    "Year":1998,
+    "County":"AVG",
+    "AVG Tax":4119
+  },
+  {
+    "Year":1999,
+    "County":"Atlantic",
+    "AVG Tax":3334.98
+  },
+  {
+    "Year":1999,
+    "County":"Bergen",
+    "AVG Tax":3231.28
+  },
+  {
+    "Year":1999,
+    "County":"Burlington",
+    "AVG Tax":3571.89
+  },
+  {
+    "Year":1999,
+    "County":"Camden",
+    "AVG Tax":4223.25
+  },
+  {
+    "Year":1999,
+    "County":"Cape May",
+    "AVG Tax":2192.33
+  },
+  {
+    "Year":1999,
+    "County":"Cumberland",
+    "AVG Tax":5306.27
+  },
+  {
+    "Year":1999,
+    "County":"Essex",
+    "AVG Tax":8907.74
+  },
+  {
+    "Year":1999,
+    "County":"Gloucester",
+    "AVG Tax":4396.7
+  },
+  {
+    "Year":1999,
+    "County":"Hudson",
+    "AVG Tax":4322.59
+  },
+  {
+    "Year":1999,
+    "County":"Hunterdon",
+    "AVG Tax":3368.67
+  },
+  {
+    "Year":1999,
+    "County":"Mercer",
+    "AVG Tax":3561.31
+  },
+  {
+    "Year":1999,
+    "County":"Middlesex",
+    "AVG Tax":3925.18
+  },
+  {
+    "Year":1999,
+    "County":"Monmouth",
+    "AVG Tax":3363.31
+  },
+  {
+    "Year":1999,
+    "County":"Morris",
+    "AVG Tax":3354.15
+  },
+  {
+    "Year":1999,
+    "County":"Ocean",
+    "AVG Tax":3024.09
+  },
+  {
+    "Year":1999,
+    "County":"Passaic",
+    "AVG Tax":4343.8
+  },
+  {
+    "Year":1999,
+    "County":"Salem",
+    "AVG Tax":4008.47
+  },
+  {
+    "Year":1999,
+    "County":"Somerset",
+    "AVG Tax":2870.96
+  },
+  {
+    "Year":1999,
+    "County":"Sussex",
+    "AVG Tax":4293.19
+  },
+  {
+    "Year":1999,
+    "County":"Union",
+    "AVG Tax":4647.39
+  },
+  {
+    "Year":1999,
+    "County":"Warren",
+    "AVG Tax":3240.29
+  },
+  {
+    "Year":1999,
+    "County":"AVG",
+    "AVG Tax":4239
+  },
+  {
+    "Year":2000,
+    "County":"Atlantic",
+    "AVG Tax":3627.74
+  },
+  {
+    "Year":2000,
+    "County":"Bergen",
+    "AVG Tax":3292.1
+  },
+  {
+    "Year":2000,
+    "County":"Burlington",
+    "AVG Tax":3641.73
+  },
+  {
+    "Year":2000,
+    "County":"Camden",
+    "AVG Tax":4379.21
+  },
+  {
+    "Year":2000,
+    "County":"Cape May",
+    "AVG Tax":2169.49
+  },
+  {
+    "Year":2000,
+    "County":"Cumberland",
+    "AVG Tax":5223.47
+  },
+  {
+    "Year":2000,
+    "County":"Essex",
+    "AVG Tax":9153.17
+  },
+  {
+    "Year":2000,
+    "County":"Gloucester",
+    "AVG Tax":4571.88
+  },
+  {
+    "Year":2000,
+    "County":"Hudson",
+    "AVG Tax":4542.98
+  },
+  {
+    "Year":2000,
+    "County":"Hunterdon",
+    "AVG Tax":3522.87
+  },
+  {
+    "Year":2000,
+    "County":"Mercer",
+    "AVG Tax":3644.3
+  },
+  {
+    "Year":2000,
+    "County":"Middlesex",
+    "AVG Tax":4058.93
+  },
+  {
+    "Year":2000,
+    "County":"Monmouth",
+    "AVG Tax":3493.27
+  },
+  {
+    "Year":2000,
+    "County":"Morris",
+    "AVG Tax":3204.13
+  },
+  {
+    "Year":2000,
+    "County":"Ocean",
+    "AVG Tax":3062.33
+  },
+  {
+    "Year":2000,
+    "County":"Passaic",
+    "AVG Tax":4499.66
+  },
+  {
+    "Year":2000,
+    "County":"Salem",
+    "AVG Tax":4241.25
+  },
+  {
+    "Year":2000,
+    "County":"Somerset",
+    "AVG Tax":2856.92
+  },
+  {
+    "Year":2000,
+    "County":"Sussex",
+    "AVG Tax":4440.23
+  },
+  {
+    "Year":2000,
+    "County":"Union",
+    "AVG Tax":4762.25
+  },
+  {
+    "Year":2000,
+    "County":"Warren",
+    "AVG Tax":3375.79
+  },
+  {
+    "Year":2000,
+    "County":"AVG",
+    "AVG Tax":4429
+  },
+  {
+    "Year":2001,
+    "County":"Atlantic",
+    "AVG Tax":3694.69
+  },
+  {
+    "Year":2001,
+    "County":"Bergen",
+    "AVG Tax":3267.9
+  },
+  {
+    "Year":2001,
+    "County":"Burlington",
+    "AVG Tax":3748.45
+  },
+  {
+    "Year":2001,
+    "County":"Camden",
+    "AVG Tax":4568.96
+  },
+  {
+    "Year":2001,
+    "County":"Cape May",
+    "AVG Tax":2034.91
+  },
+  {
+    "Year":2001,
+    "County":"Cumberland",
+    "AVG Tax":5094.9
+  },
+  {
+    "Year":2001,
+    "County":"Essex",
+    "AVG Tax":8641.64
+  },
+  {
+    "Year":2001,
+    "County":"Gloucester",
+    "AVG Tax":4720.93
+  },
+  {
+    "Year":2001,
+    "County":"Hudson",
+    "AVG Tax":4542.11
+  },
+  {
+    "Year":2001,
+    "County":"Hunterdon",
+    "AVG Tax":3495.87
+  },
+  {
+    "Year":2001,
+    "County":"Mercer",
+    "AVG Tax":3785.18
+  },
+  {
+    "Year":2001,
+    "County":"Middlesex",
+    "AVG Tax":4208.33
+  },
+  {
+    "Year":2001,
+    "County":"Monmouth",
+    "AVG Tax":3647.53
+  },
+  {
+    "Year":2001,
+    "County":"Morris",
+    "AVG Tax":3222.47
+  },
+  {
+    "Year":2001,
+    "County":"Ocean",
+    "AVG Tax":3157.91
+  },
+  {
+    "Year":2001,
+    "County":"Passaic",
+    "AVG Tax":4626.49
+  },
+  {
+    "Year":2001,
+    "County":"Salem",
+    "AVG Tax":4514.84
+  },
+  {
+    "Year":2001,
+    "County":"Somerset",
+    "AVG Tax":2557.14
+  },
+  {
+    "Year":2001,
+    "County":"Sussex",
+    "AVG Tax":4686.92
+  },
+  {
+    "Year":2001,
+    "County":"Union",
+    "AVG Tax":5043.81
+  },
+  {
+    "Year":2001,
+    "County":"Warren",
+    "AVG Tax":3405.49
+  },
+  {
+    "Year":2001,
+    "County":"AVG",
+    "AVG Tax":4661
+  },
+  {
+    "Year":2002,
+    "County":"Atlantic",
+    "AVG Tax":3797.37
+  },
+  {
+    "Year":2002,
+    "County":"Bergen",
+    "AVG Tax":3292.25
+  },
+  {
+    "Year":2002,
+    "County":"Burlington",
+    "AVG Tax":3906.36
+  },
+  {
+    "Year":2002,
+    "County":"Camden",
+    "AVG Tax":4804.84
+  },
+  {
+    "Year":2002,
+    "County":"Cape May",
+    "AVG Tax":2195.59
+  },
+  {
+    "Year":2002,
+    "County":"Cumberland",
+    "AVG Tax":3893.63
+  },
+  {
+    "Year":2002,
+    "County":"Essex",
+    "AVG Tax":7608.67
+  },
+  {
+    "Year":2002,
+    "County":"Gloucester",
+    "AVG Tax":4026.71
+  },
+  {
+    "Year":2002,
+    "County":"Hudson",
+    "AVG Tax":5145.56
+  },
+  {
+    "Year":2002,
+    "County":"Hunterdon",
+    "AVG Tax":3140.72
+  },
+  {
+    "Year":2002,
+    "County":"Mercer",
+    "AVG Tax":4065.85
+  },
+  {
+    "Year":2002,
+    "County":"Middlesex",
+    "AVG Tax":4544.95
+  },
+  {
+    "Year":2002,
+    "County":"Monmouth",
+    "AVG Tax":3635.66
+  },
+  {
+    "Year":2002,
+    "County":"Morris",
+    "AVG Tax":3050.03
+  },
+  {
+    "Year":2002,
+    "County":"Ocean",
+    "AVG Tax":3191
+  },
+  {
+    "Year":2002,
+    "County":"Passaic",
+    "AVG Tax":4951.92
+  },
+  {
+    "Year":2002,
+    "County":"Salem",
+    "AVG Tax":3965.89
+  },
+  {
+    "Year":2002,
+    "County":"Somerset",
+    "AVG Tax":2650.25
+  },
+  {
+    "Year":2002,
+    "County":"Sussex",
+    "AVG Tax":3892.64
+  },
+  {
+    "Year":2002,
+    "County":"Union",
+    "AVG Tax":5524.4
+  },
+  {
+    "Year":2002,
+    "County":"Warren",
+    "AVG Tax":3606.02
+  },
+  {
+    "Year":2002,
+    "County":"AVG",
+    "AVG Tax":4974
+  },
+  {
+    "Year":2003,
+    "County":"Atlantic",
+    "AVG Tax":3836.57
+  },
+  {
+    "Year":2003,
+    "County":"Bergen",
+    "AVG Tax":3279.66
+  },
+  {
+    "Year":2003,
+    "County":"Burlington",
+    "AVG Tax":4168.22
+  },
+  {
+    "Year":2003,
+    "County":"Camden",
+    "AVG Tax":5082.47
+  },
+  {
+    "Year":2003,
+    "County":"Cape May",
+    "AVG Tax":1818.79
+  },
+  {
+    "Year":2003,
+    "County":"Cumberland",
+    "AVG Tax":4086.94
+  },
+  {
+    "Year":2003,
+    "County":"Essex",
+    "AVG Tax":5728.69
+  },
+  {
+    "Year":2003,
+    "County":"Gloucester",
+    "AVG Tax":4373.1
+  },
+  {
+    "Year":2003,
+    "County":"Hudson",
+    "AVG Tax":5268.02
+  },
+  {
+    "Year":2003,
+    "County":"Hunterdon",
+    "AVG Tax":2991.34
+  },
+  {
+    "Year":2003,
+    "County":"Mercer",
+    "AVG Tax":4274.04
+  },
+  {
+    "Year":2003,
+    "County":"Middlesex",
+    "AVG Tax":4780.43
+  },
+  {
+    "Year":2003,
+    "County":"Monmouth",
+    "AVG Tax":3609
+  },
+  {
+    "Year":2003,
+    "County":"Morris",
+    "AVG Tax":2913.5
+  },
+  {
+    "Year":2003,
+    "County":"Ocean",
+    "AVG Tax":3318.58
+  },
+  {
+    "Year":2003,
+    "County":"Passaic",
+    "AVG Tax":5208.05
+  },
+  {
+    "Year":2003,
+    "County":"Salem",
+    "AVG Tax":4196.62
+  },
+  {
+    "Year":2003,
+    "County":"Somerset",
+    "AVG Tax":2632.05
+  },
+  {
+    "Year":2003,
+    "County":"Sussex",
+    "AVG Tax":4030.65
+  },
+  {
+    "Year":2003,
+    "County":"Union",
+    "AVG Tax":5975.21
+  },
+  {
+    "Year":2003,
+    "County":"Warren",
+    "AVG Tax":3298.17
+  },
+  {
+    "Year":2003,
+    "County":"AVG",
+    "AVG Tax":5239
+  },
+  {
+    "Year":2004,
+    "County":"Atlantic",
+    "AVG Tax":3992.99
+  },
+  {
+    "Year":2004,
+    "County":"Bergen",
+    "AVG Tax":7281.21
+  },
+  {
+    "Year":2004,
+    "County":"Burlington",
+    "AVG Tax":4614.69
+  },
+  {
+    "Year":2004,
+    "County":"Camden",
+    "AVG Tax":4187.34
+  },
+  {
+    "Year":2004,
+    "County":"Cape May",
+    "AVG Tax":3483.1
+  },
+  {
+    "Year":2004,
+    "County":"Cumberland",
+    "AVG Tax":2618.25
+  },
+  {
+    "Year":2004,
+    "County":"Essex",
+    "AVG Tax":6947.86
+  },
+  {
+    "Year":2004,
+    "County":"Gloucester",
+    "AVG Tax":4121.88
+  },
+  {
+    "Year":2004,
+    "County":"Hudson",
+    "AVG Tax":4973.65
+  },
+  {
+    "Year":2004,
+    "County":"Hunterdon",
+    "AVG Tax":7240.06
+  },
+  {
+    "Year":2004,
+    "County":"Mercer",
+    "AVG Tax":5440.1
+  },
+  {
+    "Year":2004,
+    "County":"Middlesex",
+    "AVG Tax":5071.58
+  },
+  {
+    "Year":2004,
+    "County":"Monmouth",
+    "AVG Tax":6303.53
+  },
+  {
+    "Year":2004,
+    "County":"Morris",
+    "AVG Tax":6762.55
+  },
+  {
+    "Year":2004,
+    "County":"Ocean",
+    "AVG Tax":3963.72
+  },
+  {
+    "Year":2004,
+    "County":"Passaic",
+    "AVG Tax":6216.07
+  },
+  {
+    "Year":2004,
+    "County":"Salem",
+    "AVG Tax":3346.44
+  },
+  {
+    "Year":2004,
+    "County":"Somerset",
+    "AVG Tax":6930.41
+  },
+  {
+    "Year":2004,
+    "County":"Sussex",
+    "AVG Tax":5243.56
+  },
+  {
+    "Year":2004,
+    "County":"Union",
+    "AVG Tax":6615.61
+  },
+  {
+    "Year":2004,
+    "County":"Warren",
+    "AVG Tax":4766.22
+  },
+  {
+    "Year":2004,
+    "County":"AVG",
+    "AVG Tax":5617
+  },
+  {
+    "Year":2005,
+    "County":"Atlantic",
+    "AVG Tax":4543.85
+  },
+  {
+    "Year":2005,
+    "County":"Bergen",
+    "AVG Tax":7844.77
+  },
+  {
+    "Year":2005,
+    "County":"Burlington",
+    "AVG Tax":4932.06
+  },
+  {
+    "Year":2005,
+    "County":"Camden",
+    "AVG Tax":4494.91
+  },
+  {
+    "Year":2005,
+    "County":"Cape May",
+    "AVG Tax":3629.16
+  },
+  {
+    "Year":2005,
+    "County":"Cumberland",
+    "AVG Tax":2921.07
+  },
+  {
+    "Year":2005,
+    "County":"Essex",
+    "AVG Tax":7315.58
+  },
+  {
+    "Year":2005,
+    "County":"Gloucester",
+    "AVG Tax":4468.78
+  },
+  {
+    "Year":2005,
+    "County":"Hudson",
+    "AVG Tax":5153.66
+  },
+  {
+    "Year":2005,
+    "County":"Hunterdon",
+    "AVG Tax":7680.94
+  },
+  {
+    "Year":2005,
+    "County":"Mercer",
+    "AVG Tax":5805.01
+  },
+  {
+    "Year":2005,
+    "County":"Middlesex",
+    "AVG Tax":5403.47
+  },
+  {
+    "Year":2005,
+    "County":"Monmouth",
+    "AVG Tax":6668.33
+  },
+  {
+    "Year":2005,
+    "County":"Morris",
+    "AVG Tax":7284.22
+  },
+  {
+    "Year":2005,
+    "County":"Ocean",
+    "AVG Tax":4282.01
+  },
+  {
+    "Year":2005,
+    "County":"Passaic",
+    "AVG Tax":6630.17
+  },
+  {
+    "Year":2005,
+    "County":"Salem",
+    "AVG Tax":3625.52
+  },
+  {
+    "Year":2005,
+    "County":"Somerset",
+    "AVG Tax":7585.55
+  },
+  {
+    "Year":2005,
+    "County":"Sussex",
+    "AVG Tax":5465.79
+  },
+  {
+    "Year":2005,
+    "County":"Union",
+    "AVG Tax":7009.28
+  },
+  {
+    "Year":2005,
+    "County":"Warren",
+    "AVG Tax":5129.22
+  },
+  {
+    "Year":2005,
+    "County":"AVG",
+    "AVG Tax":6029
+  },
+  {
+    "Year":2006,
+    "County":"Atlantic",
+    "AVG Tax":5323.58
+  },
+  {
+    "Year":2006,
+    "County":"Bergen",
+    "AVG Tax":8448.98
+  },
+  {
+    "Year":2006,
+    "County":"Burlington",
+    "AVG Tax":5295.95
+  },
+  {
+    "Year":2006,
+    "County":"Camden",
+    "AVG Tax":4878.93
+  },
+  {
+    "Year":2006,
+    "County":"Cape May",
+    "AVG Tax":3731.21
+  },
+  {
+    "Year":2006,
+    "County":"Cumberland",
+    "AVG Tax":3250.96
+  },
+  {
+    "Year":2006,
+    "County":"Essex",
+    "AVG Tax":7844.48
+  },
+  {
+    "Year":2006,
+    "County":"Gloucester",
+    "AVG Tax":4819.17
+  },
+  {
+    "Year":2006,
+    "County":"Hudson",
+    "AVG Tax":5542.34
+  },
+  {
+    "Year":2006,
+    "County":"Hunterdon",
+    "AVG Tax":8199.73
+  },
+  {
+    "Year":2006,
+    "County":"Mercer",
+    "AVG Tax":6164.05
+  },
+  {
+    "Year":2006,
+    "County":"Middlesex",
+    "AVG Tax":5742
+  },
+  {
+    "Year":2006,
+    "County":"Monmouth",
+    "AVG Tax":6976.87
+  },
+  {
+    "Year":2006,
+    "County":"Morris",
+    "AVG Tax":7849.38
+  },
+  {
+    "Year":2006,
+    "County":"Ocean",
+    "AVG Tax":4497.44
+  },
+  {
+    "Year":2006,
+    "County":"Passaic",
+    "AVG Tax":7118.19
+  },
+  {
+    "Year":2006,
+    "County":"Salem",
+    "AVG Tax":3917.66
+  },
+  {
+    "Year":2006,
+    "County":"Somerset",
+    "AVG Tax":8017.55
+  },
+  {
+    "Year":2006,
+    "County":"Sussex",
+    "AVG Tax":5765.04
+  },
+  {
+    "Year":2006,
+    "County":"Union",
+    "AVG Tax":7491.84
+  },
+  {
+    "Year":2006,
+    "County":"Warren",
+    "AVG Tax":5502.43
+  },
+  {
+    "Year":2006,
+    "County":"AVG",
+    "AVG Tax":6446
+  },
+  {
+    "Year":2007,
+    "County":"Atlantic",
+    "AVG Tax":5498.5
+  },
+  {
+    "Year":2007,
+    "County":"Bergen",
+    "AVG Tax":8966.9
+  },
+  {
+    "Year":2007,
+    "County":"Burlington",
+    "AVG Tax":5595.4
+  },
+  {
+    "Year":2007,
+    "County":"Camden",
+    "AVG Tax":5103.5
+  },
+  {
+    "Year":2007,
+    "County":"Cape May",
+    "AVG Tax":3878
+  },
+  {
+    "Year":2007,
+    "County":"Cumberland",
+    "AVG Tax":3401.4
+  },
+  {
+    "Year":2007,
+    "County":"Essex",
+    "AVG Tax":8400.5
+  },
+  {
+    "Year":2007,
+    "County":"Gloucester",
+    "AVG Tax":5142.5
+  },
+  {
+    "Year":2007,
+    "County":"Hudson",
+    "AVG Tax":5927.7
+  },
+  {
+    "Year":2007,
+    "County":"Hunterdon",
+    "AVG Tax":8570.9
+  },
+  {
+    "Year":2007,
+    "County":"Mercer",
+    "AVG Tax":6417.7
+  },
+  {
+    "Year":2007,
+    "County":"Middlesex",
+    "AVG Tax":6122.8
+  },
+  {
+    "Year":2007,
+    "County":"Monmouth",
+    "AVG Tax":7337
+  },
+  {
+    "Year":2007,
+    "County":"Morris",
+    "AVG Tax":8289.7
+  },
+  {
+    "Year":2007,
+    "County":"Ocean",
+    "AVG Tax":4706.3
+  },
+  {
+    "Year":2007,
+    "County":"Passaic",
+    "AVG Tax":7376.5
+  },
+  {
+    "Year":2007,
+    "County":"Salem",
+    "AVG Tax":4180.6
+  },
+  {
+    "Year":2007,
+    "County":"Somerset",
+    "AVG Tax":8363
+  },
+  {
+    "Year":2007,
+    "County":"Sussex",
+    "AVG Tax":6089
+  },
+  {
+    "Year":2007,
+    "County":"Union",
+    "AVG Tax":7911.5
+  },
+  {
+    "Year":2007,
+    "County":"Warren",
+    "AVG Tax":5847.2
+  },
+  {
+    "Year":2007,
+    "County":"AVG",
+    "AVG Tax":6811.9
+  },
+  {
+    "Year":2008,
+    "County":"Atlantic",
+    "AVG Tax":4650.9
+  },
+  {
+    "Year":2008,
+    "County":"Bergen",
+    "AVG Tax":9378.9
+  },
+  {
+    "Year":2008,
+    "County":"Burlington",
+    "AVG Tax":5727.3
+  },
+  {
+    "Year":2008,
+    "County":"Camden",
+    "AVG Tax":5311.3
+  },
+  {
+    "Year":2008,
+    "County":"Cape May",
+    "AVG Tax":4103.8
+  },
+  {
+    "Year":2008,
+    "County":"Cumberland",
+    "AVG Tax":3595.2
+  },
+  {
+    "Year":2008,
+    "County":"Essex",
+    "AVG Tax":9136.7
+  },
+  {
+    "Year":2008,
+    "County":"Gloucester",
+    "AVG Tax":5516.7
+  },
+  {
+    "Year":2008,
+    "County":"Hudson",
+    "AVG Tax":6293.5
+  },
+  {
+    "Year":2008,
+    "County":"Hunterdon",
+    "AVG Tax":8687.8
+  },
+  {
+    "Year":2008,
+    "County":"Mercer",
+    "AVG Tax":6769.8
+  },
+  {
+    "Year":2008,
+    "County":"Middlesex",
+    "AVG Tax":6374.1
+  },
+  {
+    "Year":2008,
+    "County":"Monmouth",
+    "AVG Tax":7563.8
+  },
+  {
+    "Year":2008,
+    "County":"Morris",
+    "AVG Tax":8670.1
+  },
+  {
+    "Year":2008,
+    "County":"Ocean",
+    "AVG Tax":4943.3
+  },
+  {
+    "Year":2008,
+    "County":"Passaic",
+    "AVG Tax":7774.6
+  },
+  {
+    "Year":2008,
+    "County":"Salem",
+    "AVG Tax":4436.5
+  },
+  {
+    "Year":2008,
+    "County":"Somerset",
+    "AVG Tax":8540.1
+  },
+  {
+    "Year":2008,
+    "County":"Sussex",
+    "AVG Tax":6307.8
+  },
+  {
+    "Year":2008,
+    "County":"Union",
+    "AVG Tax":8337.9
+  },
+  {
+    "Year":2008,
+    "County":"Warren",
+    "AVG Tax":6053.7
+  },
+  {
+    "Year":2008,
+    "County":"AVG",
+    "AVG Tax":7093
+  },
+  {
+    "Year":2009,
+    "County":"Atlantic",
+    "AVG Tax":4889.5
+  },
+  {
+    "Year":2009,
+    "County":"Bergen",
+    "AVG Tax":9738.6
+  },
+  {
+    "Year":2009,
+    "County":"Burlington",
+    "AVG Tax":5815.8
+  },
+  {
+    "Year":2009,
+    "County":"Camden",
+    "AVG Tax":5428.9
+  },
+  {
+    "Year":2009,
+    "County":"Cape May",
+    "AVG Tax":4305.4
+  },
+  {
+    "Year":2009,
+    "County":"Cumberland",
+    "AVG Tax":3677
+  },
+  {
+    "Year":2009,
+    "County":"Essex",
+    "AVG Tax":9505.3
+  },
+  {
+    "Year":2009,
+    "County":"Gloucester",
+    "AVG Tax":5714.3
+  },
+  {
+    "Year":2009,
+    "County":"Hudson",
+    "AVG Tax":6686.2
+  },
+  {
+    "Year":2009,
+    "County":"Hunterdon",
+    "AVG Tax":8818.6
+  },
+  {
+    "Year":2009,
+    "County":"Mercer",
+    "AVG Tax":6956
+  },
+  {
+    "Year":2009,
+    "County":"Middlesex",
+    "AVG Tax":6667.9
+  },
+  {
+    "Year":2009,
+    "County":"Monmouth",
+    "AVG Tax":7735.5
+  },
+  {
+    "Year":2009,
+    "County":"Morris",
+    "AVG Tax":8919.8
+  },
+  {
+    "Year":2009,
+    "County":"Ocean",
+    "AVG Tax":5018.4
+  },
+  {
+    "Year":2009,
+    "County":"Passaic",
+    "AVG Tax":8020.4
+  },
+  {
+    "Year":2009,
+    "County":"Salem",
+    "AVG Tax":4469.1
+  },
+  {
+    "Year":2009,
+    "County":"Somerset",
+    "AVG Tax":8422.8
+  },
+  {
+    "Year":2009,
+    "County":"Sussex",
+    "AVG Tax":6566.8
+  },
+  {
+    "Year":2009,
+    "County":"Union",
+    "AVG Tax":8639.1
+  },
+  {
+    "Year":2009,
+    "County":"Warren",
+    "AVG Tax":6213
+  },
+  {
+    "Year":2009,
+    "County":"AVG",
+    "AVG Tax":7308
+  },
+  {
+    "Year":2010,
+    "County":"Atlantic",
+    "AVG Tax":5147.9
+  },
+  {
+    "Year":2010,
+    "County":"Bergen",
+    "AVG Tax":10113.9
+  },
+  {
+    "Year":2010,
+    "County":"Burlington",
+    "AVG Tax":6027.4
+  },
+  {
+    "Year":2010,
+    "County":"Camden",
+    "AVG Tax":5670.6
+  },
+  {
+    "Year":2010,
+    "County":"Cape May",
+    "AVG Tax":4435
+  },
+  {
+    "Year":2010,
+    "County":"Cumberland",
+    "AVG Tax":3782.7
+  },
+  {
+    "Year":2010,
+    "County":"Essex",
+    "AVG Tax":10202.3
+  },
+  {
+    "Year":2010,
+    "County":"Gloucester",
+    "AVG Tax":5963.8
+  },
+  {
+    "Year":2010,
+    "County":"Hudson",
+    "AVG Tax":7031.4
+  },
+  {
+    "Year":2010,
+    "County":"Hunterdon",
+    "AVG Tax":8930.5
+  },
+  {
+    "Year":2010,
+    "County":"Mercer",
+    "AVG Tax":7332.3
+  },
+  {
+    "Year":2010,
+    "County":"Middlesex",
+    "AVG Tax":6846.6
+  },
+  {
+    "Year":2010,
+    "County":"Monmouth",
+    "AVG Tax":7998
+  },
+  {
+    "Year":2010,
+    "County":"Morris",
+    "AVG Tax":9133.3
+  },
+  {
+    "Year":2010,
+    "County":"Ocean",
+    "AVG Tax":5268.6
+  },
+  {
+    "Year":2010,
+    "County":"Passaic",
+    "AVG Tax":8443
+  },
+  {
+    "Year":2010,
+    "County":"Salem",
+    "AVG Tax":4530.8
+  },
+  {
+    "Year":2010,
+    "County":"Somerset",
+    "AVG Tax":8581.6
+  },
+  {
+    "Year":2010,
+    "County":"Sussex",
+    "AVG Tax":6795.2
+  },
+  {
+    "Year":2010,
+    "County":"Union",
+    "AVG Tax":9057.1
+  },
+  {
+    "Year":2010,
+    "County":"Warren",
+    "AVG Tax":6242.2
+  },
+  {
+    "Year":2010,
+    "County":"AVG",
+    "AVG Tax":7568.44
+  },
+  {
+    "Year":2011,
+    "County":"Atlantic",
+    "AVG Tax":5405
+  },
+  {
+    "Year":2011,
+    "County":"Bergen",
+    "AVG Tax":10326.8
+  },
+  {
+    "Year":2011,
+    "County":"Burlington",
+    "AVG Tax":6081.5
+  },
+  {
+    "Year":2011,
+    "County":"Camden",
+    "AVG Tax":5859.2
+  },
+  {
+    "Year":2011,
+    "County":"Cape May",
+    "AVG Tax":4473.6
+  },
+  {
+    "Year":2011,
+    "County":"Cumberland",
+    "AVG Tax":3856.8
+  },
+  {
+    "Year":2011,
+    "County":"Essex",
+    "AVG Tax":10515.6
+  },
+  {
+    "Year":2011,
+    "County":"Gloucester",
+    "AVG Tax":5855.2
+  },
+  {
+    "Year":2011,
+    "County":"Hudson",
+    "AVG Tax":7151.4
+  },
+  {
+    "Year":2011,
+    "County":"Hunterdon",
+    "AVG Tax":8931.3
+  },
+  {
+    "Year":2011,
+    "County":"Mercer",
+    "AVG Tax":7449
+  },
+  {
+    "Year":2011,
+    "County":"Middlesex",
+    "AVG Tax":7155.2
+  },
+  {
+    "Year":2011,
+    "County":"Monmouth",
+    "AVG Tax":8120.6
+  },
+  {
+    "Year":2011,
+    "County":"Morris",
+    "AVG Tax":9318.5
+  },
+  {
+    "Year":2011,
+    "County":"Ocean",
+    "AVG Tax":5440.3
+  },
+  {
+    "Year":2011,
+    "County":"Passaic",
+    "AVG Tax":8873.1
+  },
+  {
+    "Year":2011,
+    "County":"Salem",
+    "AVG Tax":4631.8
+  },
+  {
+    "Year":2011,
+    "County":"Somerset",
+    "AVG Tax":8745.5
+  },
+  {
+    "Year":2011,
+    "County":"Sussex",
+    "AVG Tax":7001.2
+  },
+  {
+    "Year":2011,
+    "County":"Union",
+    "AVG Tax":9472.3
+  },
+  {
+    "Year":2011,
+    "County":"Warren",
+    "AVG Tax":6290.5
+  },
+  {
+    "Year":2011,
+    "County":"AVG",
+    "AVG Tax":7730.3
+  },
+  {
+    "Year":2012,
+    "County":"Atlantic",
+    "AVG Tax":5632.1
+  },
+  {
+    "Year":2012,
+    "County":"Bergen",
+    "AVG Tax":10476.9
+  },
+  {
+    "Year":2012,
+    "County":"Burlington",
+    "AVG Tax":6169
+  },
+  {
+    "Year":2012,
+    "County":"Camden",
+    "AVG Tax":5968.9
+  },
+  {
+    "Year":2012,
+    "County":"Cape May",
+    "AVG Tax":4497.5
+  },
+  {
+    "Year":2012,
+    "County":"Cumberland",
+    "AVG Tax":3869.2
+  },
+  {
+    "Year":2012,
+    "County":"Essex",
+    "AVG Tax":10705.2
+  },
+  {
+    "Year":2012,
+    "County":"Gloucester",
+    "AVG Tax":5912
+  },
+  {
+    "Year":2012,
+    "County":"Hudson",
+    "AVG Tax":7304.5
+  },
+  {
+    "Year":2012,
+    "County":"Hunterdon",
+    "AVG Tax":8908.5
+  },
+  {
+    "Year":2012,
+    "County":"Mercer",
+    "AVG Tax":7587.8
+  },
+  {
+    "Year":2012,
+    "County":"Middlesex",
+    "AVG Tax":7274
+  },
+  {
+    "Year":2012,
+    "County":"Monmouth",
+    "AVG Tax":8215.6
+  },
+  {
+    "Year":2012,
+    "County":"Morris",
+    "AVG Tax":9395.6
+  },
+  {
+    "Year":2012,
+    "County":"Ocean",
+    "AVG Tax":5528.5
+  },
+  {
+    "Year":2012,
+    "County":"Passaic",
+    "AVG Tax":9184.3
+  },
+  {
+    "Year":2012,
+    "County":"Salem",
+    "AVG Tax":4769.6
+  },
+  {
+    "Year":2012,
+    "County":"Somerset",
+    "AVG Tax":8921.9
+  },
+  {
+    "Year":2012,
+    "County":"Sussex",
+    "AVG Tax":7115.8
+  },
+  {
+    "Year":2012,
+    "County":"Union",
+    "AVG Tax":9657.9
+  },
+  {
+    "Year":2012,
+    "County":"Warren",
+    "AVG Tax":6359.3
+  },
+  {
+    "Year":2012,
+    "County":"AVG",
+    "AVG Tax":7862
+  },
+  {
+    "Year":2013,
+    "County":"Atlantic",
+    "AVG Tax":6094.6
+  },
+  {
+    "Year":2013,
+    "County":"Bergen",
+    "AVG Tax":10642
+  },
+  {
+    "Year":2013,
+    "County":"Burlington",
+    "AVG Tax":6254.1
+  },
+  {
+    "Year":2013,
+    "County":"Camden",
+    "AVG Tax":5957.3
+  },
+  {
+    "Year":2013,
+    "County":"Cape May",
+    "AVG Tax":4557.1
+  },
+  {
+    "Year":2013,
+    "County":"Cumberland",
+    "AVG Tax":3706
+  },
+  {
+    "Year":2013,
+    "County":"Essex",
+    "AVG Tax":10590.1
+  },
+  {
+    "Year":2013,
+    "County":"Gloucester",
+    "AVG Tax":6079.6
+  },
+  {
+    "Year":2013,
+    "County":"Hudson",
+    "AVG Tax":7467.2
+  },
+  {
+    "Year":2013,
+    "County":"Hunterdon",
+    "AVG Tax":8968.9
+  },
+  {
+    "Year":2013,
+    "County":"Mercer",
+    "AVG Tax":7735.8
+  },
+  {
+    "Year":2013,
+    "County":"Middlesex",
+    "AVG Tax":7402.7
+  },
+  {
+    "Year":2013,
+    "County":"Monmouth",
+    "AVG Tax":8306.7
+  },
+  {
+    "Year":2013,
+    "County":"Morris",
+    "AVG Tax":9547
+  },
+  {
+    "Year":2013,
+    "County":"Ocean",
+    "AVG Tax":5469.6
+  },
+  {
+    "Year":2013,
+    "County":"Passaic",
+    "AVG Tax":9368
+  },
+  {
+    "Year":2013,
+    "County":"Salem",
+    "AVG Tax":4870.9
+  },
+  {
+    "Year":2013,
+    "County":"Somerset",
+    "AVG Tax":9082.6
+  },
+  {
+    "Year":2013,
+    "County":"Sussex",
+    "AVG Tax":7144.1
+  },
+  {
+    "Year":2013,
+    "County":"Union",
+    "AVG Tax":9932.2
+  },
+  {
+    "Year":2013,
+    "County":"Warren",
+    "AVG Tax":6399.2
+  },
+  {
+    "Year":2013,
+    "County":"AVG",
+    "AVG Tax":7964.37
+  },
+  {
+    "Year":2014,
+    "County":"Atlantic",
+    "AVG Tax":6544.6
+  },
+  {
+    "Year":2014,
+    "County":"Bergen",
+    "AVG Tax":10825.6
+  },
+  {
+    "Year":2014,
+    "County":"Burlington",
+    "AVG Tax":6288.9
+  },
+  {
+    "Year":2014,
+    "County":"Camden",
+    "AVG Tax":6098.6
+  },
+  {
+    "Year":2014,
+    "County":"Cape May",
+    "AVG Tax":4650.8
+  },
+  {
+    "Year":2014,
+    "County":"Cumberland",
+    "AVG Tax":3796.9
+  },
+  {
+    "Year":2014,
+    "County":"Essex",
+    "AVG Tax":10895.7
+  },
+  {
+    "Year":2014,
+    "County":"Gloucester",
+    "AVG Tax":6232.5
+  },
+  {
+    "Year":2014,
+    "County":"Hudson",
+    "AVG Tax":8033.6
+  },
+  {
+    "Year":2014,
+    "County":"Hunterdon",
+    "AVG Tax":9020.4
+  },
+  {
+    "Year":2014,
+    "County":"Mercer",
+    "AVG Tax":7812.1
+  },
+  {
+    "Year":2014,
+    "County":"Middlesex",
+    "AVG Tax":7541.4
+  },
+  {
+    "Year":2014,
+    "County":"Monmouth",
+    "AVG Tax":8448
+  },
+  {
+    "Year":2014,
+    "County":"Morris",
+    "AVG Tax":9665.7
+  },
+  {
+    "Year":2014,
+    "County":"Ocean",
+    "AVG Tax":5718.9
+  },
+  {
+    "Year":2014,
+    "County":"Passaic",
+    "AVG Tax":9571.9
+  },
+  {
+    "Year":2014,
+    "County":"Salem",
+    "AVG Tax":4944.4
+  },
+  {
+    "Year":2014,
+    "County":"Somerset",
+    "AVG Tax":9269.3
+  },
+  {
+    "Year":2014,
+    "County":"Sussex",
+    "AVG Tax":7242.6
+  },
+  {
+    "Year":2014,
+    "County":"Union",
+    "AVG Tax":10241.5
+  },
+  {
+    "Year":2014,
+    "County":"Warren",
+    "AVG Tax":6594.2
+  },
+  {
+    "Year":2014,
+    "County":"AVG",
+    "AVG Tax": 8120.0
+  }
+]

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  </head>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css" media="Screen">
+/*\*/@import url("css/layout-1-master.css");/**/
+</style>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+<body>
+  <div id="headline1">
+    <div class="title"><em>Sprint 2015</em>FE550</div>
+    <span class="subtitle">HW Set 2.Temporal Data Visualization by Mo Ghanem</span> </div>
+  <div id="navtoplist">
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="layout-2.html">Tax Breakdown</a></li>
+      <li id="current"><a href="layout-3.html">Anual Precentage Increase</a></li>
+      <li><a href="layout-4.html">County Taxes</a></li>
+    </ul>
+  </div>
+  <div id="navtoplistline">&nbsp;</div>
+     <h2>Anual Precentage Change 1998-2014</h2>
+     <div id="chartContainer3">
+  
+  <script type="text/javascript">
+    
+    d3.csv("data/Anualincrease.csv", function(data) {
+      console.table (data);
+      
+      var svg = dimple.newSvg("#chartContainer3", 1000, 800);
+      var myChart = new dimple.chart(svg, data);
+      myChart.addColorAxis("Percentage Increase", ["Orange", "yellow", "red"]);
+      myChart.setBounds(60, 30, 800, 550);
+      console.log(myChart.axes.length);     
+        var x = myChart.addCategoryAxis ("x", "Year");
+        x.addOrderRule("Date");
+        x.timeInterval = 4;
+        x.showGridlines = true;
+        x.lineWeight = 4;
+        var s_1 = myChart.addMeasureAxis("y","Percentage Increase");
+        var s1 = myChart.addSeries(null, dimple.plot.line);
+        //s1.interpolation = "step";
+        s1.lineWeight = 6;
+        s_1.tickFormat = ',02f';
+        s1.lineMarkers = true;
+        s_1.showGridlines = true;
+        //myChart.addLegend(90, 650, 580, 80, "left");
+        myChart.draw();
+        x.shapes.selectAll("text").attr("transform", "rotate(45)");
+
+
+
+});
+       
+  
+  </script>
+</div>
+   </body>
+</html>
