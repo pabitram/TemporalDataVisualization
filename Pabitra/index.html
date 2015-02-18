@@ -1,0 +1,25 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    
+    <div id="chartContainer">
+        <script src="d3.v3.4.8.js"></script>
+        <script src="http://dimplejs.org/dist/dimple.v2.1.2.min.js"></script>
+        <script type="text/javascript">
+            var svg = dimple.newSvg("#chartContainer", 590, 400);
+            d3.tsv("women_data.tsv", function (data) {
+                data = dimple.filterData(data, "Country", ["China", "Europe", "India", "USA"])
+                var myChart = new dimple.chart(svg, data);
+                myChart.setBounds(60, 30, 505, 305);
+                var x = myChart.addCategoryAxis("x", "Year");
+                x.addOrderRule("Year");
+                myChart.addMeasureAxis("y", "Percentage");
+                myChart.addSeries("Country", dimple.plot.line);
+                myChart.addLegend(60, 10, 500, 20, "right");
+                myChart.draw();
+            });
+        </script>
+    </div>
+</body>
+</html>
